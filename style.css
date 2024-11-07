@@ -1,0 +1,17 @@
+
+.headingContainer{
+    border:solid black;
+}
+.mainImage{
+    width: 100%;
+}
+ul{
+    border:solid blue;
+}
+ol{
+    border:solid red;
+}
+
+.displayContainer{
+    border:solid green;
+}
